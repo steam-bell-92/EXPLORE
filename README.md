@@ -22,8 +22,8 @@ Drops or modifies columns if needed<br>
 Plots relevant features (like elevation or location)
 
 ## <b>🔢 Fibonacci Notebook</b>
-<li>Libraries used: matplotlib.pyplot</li><br>
-<li>Generates Fibonacci numbers using basic Python logic</li><br>
+<li>Libraries used: matplotlib.pyplot</li>
+<li>Generates Fibonacci numbers using basic Python logic</li>
 <li>Visualizes the sequence using a line</li>
 
 ## <b>📌 Notes</b>
